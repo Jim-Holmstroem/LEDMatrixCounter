@@ -1,5 +1,5 @@
 # Background
-Counts in binary up to ``2^64``, about one tick every ``1ms`` (no fancy timing is done, and yes it will take 100 millions of years to wrap-around)
+Counts in binary up to ``2^64``, about one tick every ``1ms`` (no fancy timing is done, and yes it will take 100 millions of years to wrap-around). The idea is to have something less hard-coded and more fun than the first example code.
 
 # Installation
 Connect the LED Matrix kit
